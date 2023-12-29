@@ -40,3 +40,17 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+
+
+
+App Brainstorming: 
+
+Gmail - Schedule send functionality, built-in translate functionality
+
+YouTube - Hold down on video to fast forward, preview videos without fully clicking on it
+
+Duolingo - widget that lets me have it on my homescreen, practice functionality 
+
+
